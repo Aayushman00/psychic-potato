@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.pyd
+.Python
+
+# Virtual environment
+venv/
+.env/
+.env
+
+# Packages
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Editor and OS files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.DS_Store
+
+# Exported experiment outputs
+exports/
+
+# Local config files
+configs/*.local.yaml
+
+# Logs
+*.log
+
+# Test artifacts
+.coverage
+htmlcov/

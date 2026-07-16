@@ -50,13 +50,15 @@ def build_piano_notes(start_octave: int, count: int) -> List[PianoNote]:
 
 
 def chromatic_neighbors(notes: List[PianoNote]) -> List[tuple]:
-    return [(notes[i], notes[i + 1]) for i in range(len(notes) - 1)]
+    note_list = sorted(notes, key=lambda n: n.index)
+    return [(note_list[i], note_list[i + 1]) for i in range(len(note_list) - 1)]
 
 
 def octave_pairs(notes: List[PianoNote]) -> List[tuple]:
+    note_list = sorted(notes, key=lambda n: n.index)
+    note_by_midi = {note.midi: note for note in note_list}
     pairs = []
-    note_by_midi = {note.midi: note for note in notes}
-    for note in notes:
+    for note in note_list:
         target = note.midi + 12
         if target in note_by_midi:
             pairs.append((note, note_by_midi[target]))
