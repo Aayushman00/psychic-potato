@@ -1,0 +1,22 @@
+optimizer:
+  algorithm: simulated_annealing
+  initial_temperature: 100.0
+  cooling_rate: 0.9995
+  iterations: 1000
+  seed: 42
+
+penalty_weights:
+  placement: 1.0
+  adjacency: 1.0
+  octave: 1.0
+  finger_strain: 1.0
+  hand_balance: 1.0
+  modifier: 1.0
+  ghosting: 1.0
+  stretch: 1.0
+  topology: 1.0
+
+experiment:
+  name: mvp_25_key_run
+  start_octave: 4
+  note_count: 25
