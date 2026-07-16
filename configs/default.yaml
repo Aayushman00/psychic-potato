@@ -17,6 +17,6 @@ penalty_weights:
   topology: 1.0
 
 experiment:
-  name: mvp_25_key_run
+  name: mvp_61_key_run
   start_octave: 4
-  note_count: 25
+  note_count: 61

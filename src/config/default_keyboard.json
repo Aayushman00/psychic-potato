@@ -1,0 +1,551 @@
+[
+  {
+    "label": "K0",
+    "row": 0,
+    "x": 0.0,
+    "y": 0.0,
+    "hand": "L",
+    "finger": "index",
+    "modifier": false
+  },
+  {
+    "label": "K1",
+    "row": 0,
+    "x": 1.0,
+    "y": 0.0,
+    "hand": "L",
+    "finger": "index",
+    "modifier": false
+  },
+  {
+    "label": "K2",
+    "row": 0,
+    "x": 2.0,
+    "y": 0.0,
+    "hand": "L",
+    "finger": "index",
+    "modifier": false
+  },
+  {
+    "label": "K3",
+    "row": 0,
+    "x": 3.0,
+    "y": 0.0,
+    "hand": "L",
+    "finger": "index",
+    "modifier": false
+  },
+  {
+    "label": "K4",
+    "row": 0,
+    "x": 4.0,
+    "y": 0.0,
+    "hand": "L",
+    "finger": "index",
+    "modifier": false
+  },
+  {
+    "label": "K5",
+    "row": 0,
+    "x": 5.0,
+    "y": 0.0,
+    "hand": "R",
+    "finger": "index",
+    "modifier": false
+  },
+  {
+    "label": "K6",
+    "row": 0,
+    "x": 6.0,
+    "y": 0.0,
+    "hand": "R",
+    "finger": "index",
+    "modifier": false
+  },
+  {
+    "label": "K7",
+    "row": 0,
+    "x": 7.0,
+    "y": 0.0,
+    "hand": "R",
+    "finger": "index",
+    "modifier": false
+  },
+  {
+    "label": "K8",
+    "row": 0,
+    "x": 8.0,
+    "y": 0.0,
+    "hand": "R",
+    "finger": "index",
+    "modifier": false
+  },
+  {
+    "label": "K9",
+    "row": 0,
+    "x": 9.0,
+    "y": 0.0,
+    "hand": "R",
+    "finger": "index",
+    "modifier": false
+  },
+  {
+    "label": "K10",
+    "row": 1,
+    "x": 0.5,
+    "y": 1.0,
+    "hand": "L",
+    "finger": "index",
+    "modifier": false
+  },
+  {
+    "label": "K11",
+    "row": 1,
+    "x": 1.5,
+    "y": 1.0,
+    "hand": "L",
+    "finger": "index",
+    "modifier": false
+  },
+  {
+    "label": "K12",
+    "row": 1,
+    "x": 2.5,
+    "y": 1.0,
+    "hand": "L",
+    "finger": "index",
+    "modifier": false
+  },
+  {
+    "label": "K13",
+    "row": 1,
+    "x": 3.5,
+    "y": 1.0,
+    "hand": "L",
+    "finger": "index",
+    "modifier": false
+  },
+  {
+    "label": "K14",
+    "row": 1,
+    "x": 4.5,
+    "y": 1.0,
+    "hand": "L",
+    "finger": "index",
+    "modifier": false
+  },
+  {
+    "label": "K15",
+    "row": 1,
+    "x": 5.5,
+    "y": 1.0,
+    "hand": "R",
+    "finger": "index",
+    "modifier": false
+  },
+  {
+    "label": "K16",
+    "row": 1,
+    "x": 6.5,
+    "y": 1.0,
+    "hand": "R",
+    "finger": "index",
+    "modifier": false
+  },
+  {
+    "label": "K17",
+    "row": 1,
+    "x": 7.5,
+    "y": 1.0,
+    "hand": "R",
+    "finger": "index",
+    "modifier": false
+  },
+  {
+    "label": "K18",
+    "row": 1,
+    "x": 8.5,
+    "y": 1.0,
+    "hand": "R",
+    "finger": "index",
+    "modifier": false
+  },
+  {
+    "label": "K19",
+    "row": 1,
+    "x": 9.5,
+    "y": 1.0,
+    "hand": "R",
+    "finger": "index",
+    "modifier": false
+  },
+  {
+    "label": "K20",
+    "row": 2,
+    "x": 0.0,
+    "y": 2.0,
+    "hand": "L",
+    "finger": "index",
+    "modifier": false
+  },
+  {
+    "label": "K21",
+    "row": 2,
+    "x": 1.0,
+    "y": 2.0,
+    "hand": "L",
+    "finger": "index",
+    "modifier": false
+  },
+  {
+    "label": "K22",
+    "row": 2,
+    "x": 2.0,
+    "y": 2.0,
+    "hand": "L",
+    "finger": "index",
+    "modifier": false
+  },
+  {
+    "label": "K23",
+    "row": 2,
+    "x": 3.0,
+    "y": 2.0,
+    "hand": "L",
+    "finger": "index",
+    "modifier": false
+  },
+  {
+    "label": "K24",
+    "row": 2,
+    "x": 4.0,
+    "y": 2.0,
+    "hand": "L",
+    "finger": "index",
+    "modifier": false
+  },
+  {
+    "label": "K25",
+    "row": 2,
+    "x": 5.0,
+    "y": 2.0,
+    "hand": "R",
+    "finger": "index",
+    "modifier": false
+  },
+  {
+    "label": "K26",
+    "row": 2,
+    "x": 6.0,
+    "y": 2.0,
+    "hand": "R",
+    "finger": "index",
+    "modifier": false
+  },
+  {
+    "label": "K27",
+    "row": 2,
+    "x": 7.0,
+    "y": 2.0,
+    "hand": "R",
+    "finger": "index",
+    "modifier": false
+  },
+  {
+    "label": "K28",
+    "row": 2,
+    "x": 8.0,
+    "y": 2.0,
+    "hand": "R",
+    "finger": "index",
+    "modifier": false
+  },
+  {
+    "label": "K29",
+    "row": 2,
+    "x": 9.0,
+    "y": 2.0,
+    "hand": "R",
+    "finger": "index",
+    "modifier": false
+  },
+  {
+    "label": "K30",
+    "row": 3,
+    "x": 0.5,
+    "y": 3.0,
+    "hand": "L",
+    "finger": "index",
+    "modifier": false
+  },
+  {
+    "label": "K31",
+    "row": 3,
+    "x": 1.5,
+    "y": 3.0,
+    "hand": "L",
+    "finger": "index",
+    "modifier": false
+  },
+  {
+    "label": "K32",
+    "row": 3,
+    "x": 2.5,
+    "y": 3.0,
+    "hand": "L",
+    "finger": "index",
+    "modifier": false
+  },
+  {
+    "label": "K33",
+    "row": 3,
+    "x": 3.5,
+    "y": 3.0,
+    "hand": "L",
+    "finger": "index",
+    "modifier": false
+  },
+  {
+    "label": "K34",
+    "row": 3,
+    "x": 4.5,
+    "y": 3.0,
+    "hand": "L",
+    "finger": "index",
+    "modifier": false
+  },
+  {
+    "label": "K35",
+    "row": 3,
+    "x": 5.5,
+    "y": 3.0,
+    "hand": "R",
+    "finger": "index",
+    "modifier": false
+  },
+  {
+    "label": "K36",
+    "row": 3,
+    "x": 6.5,
+    "y": 3.0,
+    "hand": "R",
+    "finger": "index",
+    "modifier": false
+  },
+  {
+    "label": "K37",
+    "row": 3,
+    "x": 7.5,
+    "y": 3.0,
+    "hand": "R",
+    "finger": "index",
+    "modifier": false
+  },
+  {
+    "label": "K38",
+    "row": 3,
+    "x": 8.5,
+    "y": 3.0,
+    "hand": "R",
+    "finger": "index",
+    "modifier": false
+  },
+  {
+    "label": "K39",
+    "row": 3,
+    "x": 9.5,
+    "y": 3.0,
+    "hand": "R",
+    "finger": "index",
+    "modifier": false
+  },
+  {
+    "label": "K40",
+    "row": 4,
+    "x": 0.0,
+    "y": 4.0,
+    "hand": "L",
+    "finger": "index",
+    "modifier": false
+  },
+  {
+    "label": "K41",
+    "row": 4,
+    "x": 1.0,
+    "y": 4.0,
+    "hand": "L",
+    "finger": "index",
+    "modifier": false
+  },
+  {
+    "label": "K42",
+    "row": 4,
+    "x": 2.0,
+    "y": 4.0,
+    "hand": "L",
+    "finger": "index",
+    "modifier": false
+  },
+  {
+    "label": "K43",
+    "row": 4,
+    "x": 3.0,
+    "y": 4.0,
+    "hand": "L",
+    "finger": "index",
+    "modifier": false
+  },
+  {
+    "label": "K44",
+    "row": 4,
+    "x": 4.0,
+    "y": 4.0,
+    "hand": "L",
+    "finger": "index",
+    "modifier": false
+  },
+  {
+    "label": "K45",
+    "row": 4,
+    "x": 5.0,
+    "y": 4.0,
+    "hand": "R",
+    "finger": "index",
+    "modifier": false
+  },
+  {
+    "label": "K46",
+    "row": 4,
+    "x": 6.0,
+    "y": 4.0,
+    "hand": "R",
+    "finger": "index",
+    "modifier": false
+  },
+  {
+    "label": "K47",
+    "row": 4,
+    "x": 7.0,
+    "y": 4.0,
+    "hand": "R",
+    "finger": "index",
+    "modifier": false
+  },
+  {
+    "label": "K48",
+    "row": 4,
+    "x": 8.0,
+    "y": 4.0,
+    "hand": "R",
+    "finger": "index",
+    "modifier": false
+  },
+  {
+    "label": "K49",
+    "row": 4,
+    "x": 9.0,
+    "y": 4.0,
+    "hand": "R",
+    "finger": "index",
+    "modifier": false
+  },
+  {
+    "label": "K50",
+    "row": 5,
+    "x": 0.5,
+    "y": 5.0,
+    "hand": "L",
+    "finger": "index",
+    "modifier": false
+  },
+  {
+    "label": "K51",
+    "row": 5,
+    "x": 1.5,
+    "y": 5.0,
+    "hand": "L",
+    "finger": "index",
+    "modifier": false
+  },
+  {
+    "label": "K52",
+    "row": 5,
+    "x": 2.5,
+    "y": 5.0,
+    "hand": "L",
+    "finger": "index",
+    "modifier": false
+  },
+  {
+    "label": "K53",
+    "row": 5,
+    "x": 3.5,
+    "y": 5.0,
+    "hand": "L",
+    "finger": "index",
+    "modifier": false
+  },
+  {
+    "label": "K54",
+    "row": 5,
+    "x": 4.5,
+    "y": 5.0,
+    "hand": "L",
+    "finger": "index",
+    "modifier": false
+  },
+  {
+    "label": "K55",
+    "row": 5,
+    "x": 5.5,
+    "y": 5.0,
+    "hand": "R",
+    "finger": "index",
+    "modifier": false
+  },
+  {
+    "label": "K56",
+    "row": 5,
+    "x": 6.5,
+    "y": 5.0,
+    "hand": "R",
+    "finger": "index",
+    "modifier": false
+  },
+  {
+    "label": "K57",
+    "row": 5,
+    "x": 7.5,
+    "y": 5.0,
+    "hand": "R",
+    "finger": "index",
+    "modifier": false
+  },
+  {
+    "label": "K58",
+    "row": 5,
+    "x": 8.5,
+    "y": 5.0,
+    "hand": "R",
+    "finger": "index",
+    "modifier": false
+  },
+  {
+    "label": "K59",
+    "row": 5,
+    "x": 9.5,
+    "y": 5.0,
+    "hand": "R",
+    "finger": "index",
+    "modifier": false
+  },
+  {
+    "label": "K60",
+    "row": 6,
+    "x": 0.0,
+    "y": 6.0,
+    "hand": "L",
+    "finger": "index",
+    "modifier": false
+  }
+]

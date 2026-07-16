@@ -39,12 +39,12 @@ The product addresses a topological assignment problem: embedding piano relation
 
 ## 6. MVP Scope
 
-The MVP should optimize a smaller 25-key, two-octave playable prototype before expanding to a full 88-key layout. This lowers implementation risk and allows the ergonomic objective function to be tested quickly.
+The MVP should optimize a smaller 61-key, five-octave playable prototype before expanding to a full 88-key layout. This lowers implementation risk and allows the ergonomic objective function to be tested quickly.
 
 ### MVP Includes
 
 - A modeled QWERTY keyboard as staggered 2D coordinates.
-- A modeled piano note graph for 25 notes.
+- A modeled piano note graph for 61 notes.
 - Simulated annealing optimizer.
 - Cost function with ergonomic and musical-structure penalties.
 - Static export of the generated mapping.
@@ -215,7 +215,7 @@ Where:
 
 The MVP is successful if:
 
-- It generates a complete 25-note mapping with no duplicate key assignments.
+- It generates a complete 61-note mapping with no duplicate key assignments.
 - It produces a lower total ergonomic score than a sequential baseline.
 - It improves chromatic adjacency preservation or octave consistency over the baseline.
 - It exports a valid JSON mapping.

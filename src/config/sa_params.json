@@ -1,0 +1,12 @@
+{
+  "initial_temperature": 1.0,
+  "cooling_rate": 0.95,
+  "iterations": 1000,
+  "restarts": 30,
+  "move_probabilities": {
+    "swap": 0.5,
+    "block_shift": 0.3,
+    "rotation": 0.2
+  },
+  "block_shift_max_length": 0.2
+}

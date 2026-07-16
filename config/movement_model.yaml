@@ -1,0 +1,31 @@
+# Configuration for the Version 1 ergonomic movement model.
+# Each key corresponds to an EdgeType defined in src.core.keyboard_graph.
+# Values are additive cost units (arbitrary but consistent) representing the
+# relative effort of performing that primitive action.
+#
+# Justifications:
+#   * SAME_FINGER: Moving the same finger to an adjacent key (e.g., sliding
+#     from index to next key) requires minimal tendon stretch and no
+#     neuromuscular reprogramming. Baseline cost = 1.0.
+#   * FINGER_CHANGE: Switching to a different finger involves recruiting a
+#     new motor unit and slightly more cortical activation. Empirical
+#     studies suggest ~1.5–2× the cost of same-finger moves.
+#   * HAND_SHIFT: Moving the hand laterally (e.g., from home row to top row)
+#     involves wrist/forearm movement and is more costly than finger-only
+#     adjustments.
+#   * MODIFIER_TOGGLE: Pressing or releasing a modifier key (Shift, Alt, etc.)
+#     adds a discrete action; holding it down while moving another finger
+#     incurs additional load due to co‑activation. We treat a toggle (press
+#     or release) as a unit cost; holding is modeled by the state itself
+#     (modifier flag) and does not add extra cost per movement.
+#
+# All values are tunable; the model is deliberately simple to enable rapid
+# iteration and clear interpretation.
+
+scale: 1.0   # Global multiplier for all costs; keep at 1.0 unless you want to
+             # uniformly increase/decrease effort.
+
+same_finger: 1.0
+finger_change: 1.8
+hand_shift: 2.5
+modifier_toggle: 1.2
